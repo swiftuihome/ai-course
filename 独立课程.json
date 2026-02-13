@@ -1,0 +1,2058 @@
+[
+    {
+        "id": 84,
+        "cover": "https://zhu-ai.top/uploads/image-1761899629419-256512421.jpg",
+        "title": "[零基础]微信小程序群发通知(订阅消息)|SDK一键完成",
+        "description": "本视频分享了如何在微信小程序中实现订阅通知功能的一个主要应用场景: 管理员向所有用户发送通知，提升用户的活跃度。",
+        "core_content": [
+            "SDK实现微信一键登录",
+            "在现有小程序上增加管理员页面",
+            "小程序后台配置订阅消息模板",
+            "SDK一键实现微信通知"
+        ],
+        "tags": [
+            "微信通知",
+            "订阅消息",
+            "一键登录",
+            "sdk"
+        ],
+        "video_link": "",
+        "download_url": "https://pan.baidu.com/s/1m8z5w1_PiUvYRHDa_hDKNw?pwd=t9ec",
+        "price": "98.00",
+        "original_price": "149.00",
+        "created_at": "2025-10-31T08:33:49.000Z",
+        "updated_at": "2025-10-31T09:52:51.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "05:33",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 30,
+        "cover": "https://zhu-ai.top/uploads/cover-1753257249525-122370833.png",
+        "title": "[课程04] 扣子工作流:用语音生成图片",
+        "description": "本视频是<零基础开发社交小程序>的第4课，分享了如何以零基础在扣子平台快速搭建语音生成图片的工作流，并在小程序中通过SDK调用。小程序中的开发过程只需2步即可完成！",
+        "core_content": [
+            "搭建语音生成图片的扣子工作流",
+            "SDK调用工作流(永久授权)"
+        ],
+        "tags": [
+            "扣子工作流",
+            "oauth永久授权"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV19GLmzCEi1",
+        "download_url": "https://pan.baidu.com/s/139dXZysbO4c6dFLyuobYsw?pwd=gj4r",
+        "price": "98.00",
+        "original_price": "149.00",
+        "created_at": "2025-07-23T07:54:09.000Z",
+        "updated_at": "2025-10-26T08:39:27.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "07:51",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "微信社交小程序",
+        "collection_id": 10
+    },
+    {
+        "id": 32,
+        "cover": "https://zhu-ai.top/uploads/cover-1753257881641-94505899.png",
+        "title": "[不用编程] OAuth调用扣子工作流 | 永久授权",
+        "description": "全网唯一介绍用OAuth方式认证并调用扣子工作流的视频教程，让你彻底摆脱扣子apikey只有30天有效期的限制，让微信小程序获得永久授权。",
+        "core_content": [
+            "OAuth永久授权的配置",
+            "SDK一句话调用扣子工作流(OAuth认证)"
+        ],
+        "tags": [
+            "OAuth",
+            "永久授权",
+            "扣子工作流",
+            "SDK"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1UNVfzcEDf",
+        "download_url": "https://pan.baidu.com/s/10YQhiazmgIXruiACbcfPtw?pwd=wy9p",
+        "price": "98.00",
+        "original_price": "149.00",
+        "created_at": "2025-07-23T08:04:41.000Z",
+        "updated_at": "2025-10-26T08:38:54.000Z",
+        "status": "active",
+        "difficulty": "advanced",
+        "duration": "07:39",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI调用",
+        "collection_id": 2
+    },
+    {
+        "id": 33,
+        "cover": "https://zhu-ai.top/uploads/cover-1753258087853-568838417.png",
+        "title": "[永久授权] OAuth调用扣子智能体|微信小程序",
+        "description": "全网唯一介绍用OAuth方式认证并调用扣子智能体的视频教程，让你彻底摆脱扣子apikey只有30天有效期的限制，让小程序获得永久授权。\r\n",
+        "core_content": [
+            "认识OAuth认证",
+            "获取OAuth配置信息",
+            "SDK一句话调用智能体"
+        ],
+        "tags": [
+            "OAuth",
+            "扣子智能体",
+            "微信小程序"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV186dAYBE5g",
+        "download_url": "https://pan.baidu.com/s/12C_tjUmxYyNqrz_1GP54Rg?pwd=puhn",
+        "price": "98.00",
+        "original_price": "149.00",
+        "created_at": "2025-07-23T08:08:07.000Z",
+        "updated_at": "2025-10-26T08:37:56.000Z",
+        "status": "active",
+        "difficulty": "advanced",
+        "duration": "09:06",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI调用",
+        "collection_id": 2
+    },
+    {
+        "id": 83,
+        "cover": "https://zhu-ai.top/uploads/image-1761030675646-136175776.jpg",
+        "title": "官方免费的claude 4.5，每天开发一个小应用足够了！",
+        "description": "本视频详细介绍了如何利用claude.ai每天提供的免费使用最新claude 4.5模型的额度，开发解决实际问题的小工具的过程。让你不仅能免费使用官方的claude sonnet 4.5模型，还能掌握一套高效率开发日常应用的流程和部署方法。",
+        "core_content": [
+            "与AI沟通需求，指定开发方案",
+            "AI完成关键代码文件",
+            "利用部署指南完成部署并成功运行"
+        ],
+        "tags": [
+            "部署",
+            "claude.ai",
+            "免费",
+            "claude 4.5"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1bxYLz4Env/",
+        "download_url": "https://pan.baidu.com/s/139XascXZ4vv7OU3IccCTfg?pwd=xper",
+        "price": "49.00",
+        "original_price": "99.00",
+        "created_at": "2025-10-21T07:11:15.000Z",
+        "updated_at": "2025-10-22T06:16:32.000Z",
+        "status": "active",
+        "difficulty": "beginner",
+        "duration": "15:32",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 82,
+        "cover": "https://zhu-ai.top/uploads/image-1760341924560-276127257.jpg",
+        "title": "测试人员也要下岗了？| Maestro MCP，一键测试app!",
+        "description": "Maestro MCP可以为主流IDE添加专业测试能力！让AI扮演测试人员的角色，按照你指定的测试流程自动测试app!\r\n官网:https://maestro.dev/",
+        "core_content": [
+            "搭建Maestro MCP",
+            "创建yaml格式的测试文档",
+            "在Cursor中调用MCP"
+        ],
+        "tags": [
+            "测试",
+            "MCP",
+            "Maestro"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1Sb4yzxEJm/",
+        "download_url": "https://pan.baidu.com/s/1Clu62bgMT83YbvGG5amFbw?pwd=zndd",
+        "price": "69.00",
+        "original_price": "129.00",
+        "created_at": "2025-10-13T07:52:04.000Z",
+        "updated_at": "2025-10-13T08:43:54.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "3:42",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 31,
+        "cover": "https://zhu-ai.top/uploads/cover-1753257421230-961973522.png",
+        "title": "[课程5]个人开发者通过第三方(蓝兔)接入微信支付",
+        "description": "本视频是<零基础开发社交小程序>的第5课，分享了如果以通过第三方支付平台介入微信支付的全过程。",
+        "core_content": [
+            "申请蓝兔支付",
+            "SDK一句话调用蓝兔支付"
+        ],
+        "tags": [
+            "微信支付",
+            "蓝兔支付",
+            "sdk"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1BKVUzSEDo",
+        "download_url": "https://pan.baidu.com/s/13mQPEetjWDwcsVZNxvVfgw?pwd=p9pz",
+        "price": "49.00",
+        "original_price": "99.00",
+        "created_at": "2025-07-23T07:57:01.000Z",
+        "updated_at": "2025-10-09T08:44:10.000Z",
+        "status": "active",
+        "difficulty": "advanced",
+        "duration": "08:02",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "微信社交小程序",
+        "collection_id": 17
+    },
+    {
+        "id": 35,
+        "cover": "https://zhu-ai.top/uploads/cover-1753259124350-146662843.png",
+        "title": "不用编程，一步一步教你实现微信支付！",
+        "description": "这是全网唯一完全站在不懂编程的人的角度实现微信支付的教程，不用编程，不需要搞懂背后的复杂逻辑，一步一步跟随，教会你在小程序中通过SDK一句话打通微信支付。",
+        "core_content": [
+            "申请企业资质的微信小程序",
+            "注册微信支付的商户号",
+            "获取商户的配置信息",
+            "通过独家SDK完成支付流程的调用"
+        ],
+        "tags": [
+            "微信支付",
+            "SDK"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1hFKoz3EPs",
+        "download_url": "https://pan.baidu.com/s/1qQNS3c7zcmyjKb4BsZv6Dg?pwd=i1aj",
+        "price": "98.00",
+        "original_price": "198.00",
+        "created_at": "2025-07-23T08:25:24.000Z",
+        "updated_at": "2025-10-09T08:43:54.000Z",
+        "status": "active",
+        "difficulty": "advanced",
+        "duration": "40:21",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": "微信支付",
+        "collection_id": 17
+    },
+    {
+        "id": 36,
+        "cover": "https://zhu-ai.top/uploads/cover-1753259398171-361950616.png",
+        "title": "[腾讯官方出品] 微信支付MCP, 轻松接入智能体",
+        "description": "腾讯官方推出了微信支付mcp，让你可以轻松的在你的智能体中打通支付环节！",
+        "core_content": [
+            "了解微信支付mcp的体验",
+            "添加微信支付mcp"
+        ],
+        "tags": [
+            "微信支付",
+            "mcp"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1mSuFzHEJw/",
+        "download_url": "https://pan.baidu.com/s/1NQAusGlwHh4gzahdvtUvHw?pwd=n3wi",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T08:29:58.000Z",
+        "updated_at": "2025-10-09T08:43:36.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "05:52",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "微信支付",
+        "collection_id": 17
+    },
+    {
+        "id": 81,
+        "cover": "https://zhu-ai.top/uploads/image-1759998303857-413721131.jpg",
+        "title": "[二维码支付]网站支付解决方案",
+        "description": "本视频介绍了微信支付在网页端的应用场景: 手机扫描二维码，唤起微信支付。这是最高效的网页端支付解决方案。",
+        "core_content": [
+            "支付二维码的生成",
+            "SDK接入微信支付"
+        ],
+        "tags": [
+            "微信支付",
+            "二维码",
+            "网站"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV181eFzHEh5/",
+        "download_url": "https://pan.baidu.com/s/1q-hp6sIz_bCI5qOfRLJIpg?pwd=xun2",
+        "price": "98.00",
+        "original_price": "159.00",
+        "created_at": "2025-10-09T08:25:03.000Z",
+        "updated_at": "2025-10-09T08:43:21.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "08:47",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": 17
+    },
+    {
+        "id": 63,
+        "cover": "https://zhu-ai.top/uploads/cover-1755589752254-914589950.png",
+        "title": "[零基础03] 一句话开发商品二维码支付 | 微信Native支付",
+        "description": "尝试了N种AI开发网站的方式，这是最简单且最能落地的开发方式，全程你只需要扮演客户提需求，就能轻松实现基于你的业务的网站！本视频将详细介绍微信二维码支付(Native支付)的后台逻辑以及通过SDK一句话开发微信支付。",
+        "core_content": [
+            "二维码支付效果展示",
+            "微信支付后台逻辑介绍",
+            "SDK一句话开发演示"
+        ],
+        "tags": [
+            "微信支付",
+            "二维码支付",
+            "商业网站",
+            "后端"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV181eFzHEh5/",
+        "download_url": "https://pan.baidu.com/s/1q-hp6sIz_bCI5qOfRLJIpg?pwd=xun2",
+        "price": "97.98",
+        "original_price": "99.00",
+        "created_at": "2025-08-19T07:49:12.000Z",
+        "updated_at": "2025-10-09T08:25:11.000Z",
+        "status": "active",
+        "difficulty": "advanced",
+        "duration": "08:47",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "商业网站开发",
+        "collection_id": 6
+    },
+    {
+        "id": 64,
+        "cover": "https://zhu-ai.top/uploads/cover-1756690863519-912058327.png",
+        "title": "不用编程，直接使用源文件模板，改几个字就能用！",
+        "description": "这是目前搭建微信智能客服最傻瓜的方案，直接提供源文件，根据你的智能体信息，改几个配置就能直接在微信上发布！只需要跟着视频完成以下步骤即可，完全没难度，也不需要花一分钱.",
+        "core_content": [
+            "1.搭建智能体",
+            "2.获取授权信息",
+            "3.注册小程序后台",
+            "4.下载开发软件",
+            "5.配置智能体信息",
+            "6.自定义UI界面"
+        ],
+        "tags": [
+            "源文件",
+            "智能体",
+            "微信小程序",
+            "智能客服"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1j1ajzzENb/",
+        "download_url": "https://pan.baidu.com/s/1m5gQtBXC8rgxhPCBq8unBg?pwd=7x3n",
+        "price": "99.00",
+        "original_price": "158.00",
+        "created_at": "2025-08-28T08:03:00.000Z",
+        "updated_at": "2025-10-07T04:03:06.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "05:10",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "源文件",
+        "collection_id": null
+    },
+    {
+        "id": 49,
+        "cover": "https://zhu-ai.top/uploads/cover-1753279507524-274738117.png",
+        "title": "[同声传译]多语言实时口译 | 微信小程序",
+        "description": "通过调用扣子双向流式语音对话，实现多语言实时互译。本视频与其他课程不同，由于开发相对复杂，并不提供教程，只提供项目源文件。获得项目源文件后，根据\"如何定制化.md\"的指示，可以轻松定制UI并简单配置你自己的智能体id，即可立即发布使用。",
+        "core_content": [
+            "Oauth认证",
+            "如何使用项目源文件"
+        ],
+        "tags": [
+            "实时口译",
+            "源文件"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1rhTxzkECL",
+        "download_url": "https://pan.baidu.com/s/1llIlFR-628iYyFe21MZrsA?pwd=kjza",
+        "price": "129.00",
+        "original_price": "399.00",
+        "created_at": "2025-07-23T14:05:07.000Z",
+        "updated_at": "2025-10-07T04:02:48.000Z",
+        "status": "active",
+        "difficulty": "advanced",
+        "duration": "02:52",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "源文件",
+        "collection_id": null
+    },
+    {
+        "id": 34,
+        "cover": "https://zhu-ai.top/uploads/cover-1753258524844-677660482.png",
+        "title": "[零基础开发]45分钟完成文生图iOS应用",
+        "description": "本视频分享了如何在不懂编程，不懂设计且完全没有开发经验的前提下，在45分钟内完成AI文生图的iOS应用的过程",
+        "core_content": [
+            "iOS开发前的准备",
+            "前端页面和交互的开发",
+            "开发后端功能(搭建扣子工作流)",
+            "前后端集成(SDK一句话调用)"
+        ],
+        "tags": [
+            "ios",
+            "文生图",
+            "扣子工作流",
+            "sdk"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV11MGjzNEqo",
+        "download_url": "https://pan.baidu.com/s/1-SAhHahUKjn5f6LAY0Mofg?pwd=gj6y",
+        "price": "49.00",
+        "original_price": "99.00",
+        "created_at": "2025-07-23T08:15:24.000Z",
+        "updated_at": "2025-10-07T03:48:23.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "09:33",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": "ios",
+        "collection_id": null
+    },
+    {
+        "id": 54,
+        "cover": "https://zhu-ai.top/uploads/cover-1753322399893-797145181.png",
+        "title": "2小时用Cursor打造超专业级的文生图app | 豆包文生图",
+        "description": "本视频分享了在不写代码，也不懂编程的前提下，利用豆包文生图大模型，快速开发媲美商用app的文生图ios应用。该方法同样适用于其他平台，安卓，微信小程序等。视频中详细介绍了调用豆包大模型的流程以及开发一个 专业级别的app的关键步骤。",
+        "core_content": [
+            "如何设计文生图App的需求文档与视觉图",
+            "利用Cursor快速开发功能齐全的App",
+            "打造动态加载效果和高级用户交互体验"
+        ],
+        "tags": [
+            "ios",
+            "文生图",
+            "api调用"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV19azpYoEXH",
+        "download_url": "https://pan.baidu.com/s/1C5bxcxvKzSk5145Hb2JFMQ?pwd=mwek",
+        "price": "29.00",
+        "original_price": "69.00",
+        "created_at": "2025-07-24T01:59:59.000Z",
+        "updated_at": "2025-10-07T03:25:18.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "06:47",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "ios",
+        "collection_id": null
+    },
+    {
+        "id": 12,
+        "cover": "https://zhu-ai.top/uploads/cover-1753250687792-24411926.png",
+        "title": "[课程1] 完全不懂编程,我用Cursor能开发出怎样的功能和用户体验？",
+        "description": "这是全网最完整的分享如何在不懂编程的情况下，利用结构化思维，用Cursor开发商业app的系列课程。\r\n《懒人记单词》是基于艾宾浩斯遗忘曲线设计的记单词神器，它可以对每一个单词进行人性化的解读，并在每一个遗忘周期到来时及时提醒，并通过单词释义选择，拼写和造句进行全方位的巩固，同时AI还能对你的句子进行多维度的评估，确保你对每一个单词不仅会认，而且会用。",
+        "core_content": [
+            "应用有哪些模块",
+            "每个模块的体验",
+            "不懂编程可以做到什么程度"
+        ],
+        "tags": [
+            "ios",
+            "Cursor",
+            "艾宾浩斯遗忘曲线"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1ZTCNYREgM",
+        "download_url": "",
+        "price": "0.00",
+        "original_price": "9.00",
+        "created_at": "2025-07-23T06:04:47.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "beginner",
+        "duration": "10:16",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "懒人记单词",
+        "collection_id": 11
+    },
+    {
+        "id": 13,
+        "cover": "https://zhu-ai.top/uploads/cover-1753250862619-112858062.png",
+        "title": "[课程2]不懂编程的人做AI开发，应该做好哪些前期准备？",
+        "description": "这是全网最完整的分享如何在不懂编程的情况下，利用结构化思维，用Cursor开发商业app的系列课程。\r\n《懒人记单词》是基于艾宾浩斯遗忘曲线设计的记单词神器，它可以对每一个单词进行人性化的解读，并在每一个遗忘周期到来时及时提醒，并通过单词释义选择，拼写和造句进行全方位的巩固，同时AI还能对你的句子进行多维度的评估，确保你对每一个单词不仅会认，而且会用。",
+        "core_content": [
+            "AI开发工具的选择",
+            "开发app的平台 (ios, 安卓等)",
+            "数据库 (mysql)",
+            "AI模型的调用(豆包)",
+            "设计图的准备",
+            "AI回复规则的设置",
+            "准备需求文档"
+        ],
+        "tags": [
+            "ios",
+            "cursor",
+            "艾宾浩斯遗忘曲线"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV19ECzYjEsW",
+        "download_url": "",
+        "price": "0.00",
+        "original_price": "9.00",
+        "created_at": "2025-07-23T06:07:42.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "beginner",
+        "duration": "16:58",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "懒人记单词",
+        "collection_id": 11
+    },
+    {
+        "id": 14,
+        "cover": "https://zhu-ai.top/uploads/cover-1753251262708-381820975.png",
+        "title": "[课程3] 登录与注册页面UI,交互以及如何显示lottie动画",
+        "description": "这是全网最完整的分享如何在不懂编程的情况下，利用结构化思维，用Cursor开发商业app的系列课程。\r\n《懒人记单词》是基于艾宾浩斯遗忘曲线设计的记单词神器，它可以对每一个单词进行人性化的解读，并在每一个遗忘周期到来时及时提醒，并通过单词释义选择，拼写和造句进行全方位的巩固，同时AI还能对你的句子进行多维度的评估，确保你对每一个单词不仅会认，而且会用。",
+        "core_content": [
+            "用结构化的方法描述UI需求",
+            "如何在app中加入lottie动画"
+        ],
+        "tags": [
+            "ios",
+            "lottie动画",
+            "前端"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1MhC8YjEUp",
+        "download_url": "https://pan.baidu.com/s/1UQWsEhQCVXSiilLKOOjsWQ?pwd=nfs2",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T06:14:22.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "08:12",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "懒人记单词",
+        "collection_id": 11
+    },
+    {
+        "id": 15,
+        "cover": "https://zhu-ai.top/uploads/cover-1753253236339-842578899.png",
+        "title": "[课程4] 用Cursor开发数据库真的很简单",
+        "description": "这是全网最完整的分享如何在不懂编程的情况下，利用结构化思维，用Cursor开发商业app的系列课程。\r\n《懒人记单词》是基于艾宾浩斯遗忘曲线设计的记单词神器，它可以对每一个单词进行人性化的解读，并在每一个遗忘周期到来时及时提醒，并通过单词释义选择，拼写和造句进行全方位的巩固，同时AI还能对你的句子进行多维度的评估，确保你对每一个单词不仅会认，而且会用。",
+        "core_content": [
+            "数据库环境的安装",
+            "创建数据库和数据表",
+            "利用本地数据库实现注册与登录"
+        ],
+        "tags": [
+            "iOS",
+            "数据库",
+            "后台开发"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1QU6GYFEio",
+        "download_url": "https://pan.baidu.com/s/1vpYVqnq1dyyc4ncwgegqGg?pwd=e5p9",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T06:47:16.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "09:09",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "懒人记单词",
+        "collection_id": 11
+    },
+    {
+        "id": 16,
+        "cover": "https://zhu-ai.top/uploads/cover-1753253489838-185708557.png",
+        "title": "[课程5] Cursor开发复杂UI界面 | 结构化思维描述需求",
+        "description": "这是全网最完整的分享如何在不懂编程的情况下，利用结构化思维，用Cursor开发商业app的系列课程。\r\n\r\n《懒人记单词》是基于艾宾浩斯遗忘曲线设计的记单词神器，它可以对每一个单词进行人性化的解读，并在每一个遗忘周期到来时及时提醒，并通过单词释义选择，拼写和造句进行全方位的巩固，同时AI还能对你的句子进行多维度的评估，确保你对每一个单词不仅会认，而且会用。",
+        "core_content": [
+            "如何用结构化思维来描述UI需求",
+            "如何应对AI犯错而无法自己纠正的问题"
+        ],
+        "tags": [
+            "ios",
+            "结构化思维"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1rE66YWEts",
+        "download_url": "https://pan.baidu.com/s/1TAaOFz0_vS0Vr838iYkWog?pwd=jjcu",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T06:51:29.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "07:08",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "懒人记单词",
+        "collection_id": 11
+    },
+    {
+        "id": 17,
+        "cover": "https://zhu-ai.top/uploads/cover-1753253647160-488540831.png",
+        "title": "[课程6] 用Cursor为\"单词\"开发数据模型 | AI回复零出错",
+        "description": "这是全网最完整的分享如何在不懂编程的情况下，利用结构化思维，用Cursor开发商业app的系列课程。\r\n\r\n《懒人记单词》是基于艾宾浩斯遗忘曲线设计的记单词神器，它可以对每一个单词进行人性化的解读，并在每一个遗忘周期到来时及时提醒，并通过单词释义选择，拼写和造句进行全方位的巩固，同时AI还能对你的句子进行多维度的评估，确保你对每一个单词不仅会认，而且会用。",
+        "core_content": [
+            "结构化思维描述UI需求并实现0出错",
+            "利用结构化思维为核心概念"
+        ],
+        "tags": [
+            "ios",
+            "前端开发",
+            "数据模型"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1ycrMYzEya",
+        "download_url": "https://pan.baidu.com/s/1HQ8vAIgPxhFqmU1kjS0p0A?pwd=usvq",
+        "price": "29.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T06:54:07.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "06:16",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "懒人记单词",
+        "collection_id": 11
+    },
+    {
+        "id": 18,
+        "cover": "https://zhu-ai.top/uploads/cover-1753253809226-979888279.png",
+        "title": "[课程7] 调用豆包AI大模型并\"流\"式动态显示UI内容",
+        "description": "这是全网最完整的分享如何在不懂编程的情况下，利用结构化思维，用Cursor开发商业app的系列课程。\r\n\r\n《懒人记单词》是基于艾宾浩斯遗忘曲线设计的记单词神器，它可以对每一个单词进行人性化的解读，并在每一个遗忘周期到来时及时提醒，并通过单词释义选择，拼写和造句进行全方位的巩固，同时AI还能对你的句子进行多维度的评估，确保你对每一个单词不仅会认，而且会用。",
+        "core_content": [
+            "调用豆包AI大模型进行单词翻译",
+            "用\"流\"的方式动态展示UI内容"
+        ],
+        "tags": [
+            "ios",
+            "豆包AI",
+            "大模型调用",
+            "流式输出"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1F5rhYFEwt",
+        "download_url": "https://pan.baidu.com/s/1OzqCByr_m7B9VGgxT_sJNQ?pwd=pbbf",
+        "price": "19.00",
+        "original_price": "59.00",
+        "created_at": "2025-07-23T06:56:49.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "advanced",
+        "duration": "09:02",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "懒人记单词",
+        "collection_id": 11
+    },
+    {
+        "id": 19,
+        "cover": "https://zhu-ai.top/uploads/cover-1753253928773-28046310.png",
+        "title": "[课程8]Cursor开发iOS商品内购",
+        "description": "这是全网最完整的分享如何在不懂编程的情况下，利用结构化思维，用Cursor开发商业app的系列课程。\r\n\r\n《懒人记单词》是基于艾宾浩斯遗忘曲线设计的记单词神器，它可以对每一个单词进行人性化的解读，并在每一个遗忘周期到来时及时提醒，并通过单词释义选择，拼写和造句进行全方位的巩固，同时AI还能对你的句子进行多维度的评估，确保你对每一个单词不仅会认，而且会用。",
+        "core_content": [
+            "用结构化思维来还原UI设计",
+            "更新数据库并实现同步",
+            "在iOS中实现商品内购"
+        ],
+        "tags": [
+            "ios",
+            "数据库",
+            "内购"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1qbcmepEji",
+        "download_url": "https://pan.baidu.com/s/1MftLgQVDoR1l7PzJfcYKgA?pwd=bxex",
+        "price": "29.00",
+        "original_price": "59.00",
+        "created_at": "2025-07-23T06:58:48.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "advanced",
+        "duration": "10:58",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "懒人记单词",
+        "collection_id": 11
+    },
+    {
+        "id": 20,
+        "cover": "https://zhu-ai.top/uploads/cover-1753254051936-991925359.png",
+        "title": "[课程9] 最完整的app上线审核教程 | ICP备案",
+        "description": "这是全网最完整的分享如何在不懂编程的情况下，利用结构化思维，用Cursor开发商业app的系列课程。\r\n\r\n《懒人记单词》是基于艾宾浩斯遗忘曲线设计的记单词神器，它可以对每一个单词进行人性化的解读，并在每一个遗忘周期到来时及时提醒，并通过单词释义选择，拼写和造句进行全方位的巩固，同时AI还能对你的句子进行多维度的评估，确保你对每一个单词不仅会认，而且会用。",
+        "core_content": [
+            "审核前的准备 (ICP备案)",
+            "IOS审核表单填写",
+            "加速审核流程的技巧"
+        ],
+        "tags": [
+            "ios",
+            "审核",
+            "icp备案"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1YpwVepEE7",
+        "download_url": "",
+        "price": "0.00",
+        "original_price": "19.00",
+        "created_at": "2025-07-23T07:00:51.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "28:30",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "懒人记单词",
+        "collection_id": 11
+    },
+    {
+        "id": 21,
+        "cover": "https://zhu-ai.top/uploads/cover-1753254415064-227089256.png",
+        "title": "[课程1] Agent模式下Cursor同时开发多个前端页面",
+        "description": "本视频是<AI造型师>微信小程序的系列课程的第一课。AI造型师是基于AI工作流的一个微信小程序，它可以分析用户上传照片中的着装，根据时尚专业人士的经验提出改善建议，并为用户生成改进图片以提供视觉参考，让用户能根据生成结果持续提升自己的穿搭品味。",
+        "core_content": [
+            "Agent模式优势",
+            "结构化提示词实现多页面同时开发"
+        ],
+        "tags": [
+            "微信小程序",
+            "前端"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV12MRhYgEtf/",
+        "download_url": "https://pan.baidu.com/s/1QAjaN9BWRFDf-E9bkNmsjA?pwd=hp9s",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T07:06:55.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "08:35",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI造型师",
+        "collection_id": 3
+    },
+    {
+        "id": 22,
+        "cover": "https://zhu-ai.top/uploads/cover-1753254610277-241658089.png",
+        "title": "[课程2] 用工作流开发后端功能 | 扣子工作流搭建",
+        "description": "本视频是<AI造型师>小程序的系列课程的第2课。AI造型师是基于AI工作流的一个小程序，它可以分析用户上传照片中的着装，根据时尚专业人士的经验提出改善建议，并为用户生成改进图片以提供视觉参考，让用户能根据生成结果持续提升自己的穿搭品味。",
+        "core_content": [
+            "认识扣子工作流",
+            "扣子工作流的搭建",
+            "工作流参数的配置"
+        ],
+        "tags": [
+            "扣子工作流",
+            "后端"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1NeQVYUEiW",
+        "download_url": "https://pan.baidu.com/s/1beKEncOIKJVvfut_8e_RbA?pwd=4p7t",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T07:10:10.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "10:30",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI造型师",
+        "collection_id": 3
+    },
+    {
+        "id": 23,
+        "cover": "https://zhu-ai.top/uploads/cover-1753254842888-584619233.png",
+        "title": "[课程3] 小程序调用扣子工作流 | Coze API调用",
+        "description": "本视频是<AI造型师>小程序的系列课程的第3课。AI造型师是基于AI工作流的一个小程序，它可以分析用户上传照片中的着装，根据时尚专业人士的经验提出改善建议，并为用户生成改进图片以提供视觉参考，让用户能根据生成结果持续提升自己的穿搭品味。",
+        "core_content": [
+            "了解个人访问令牌(api key)",
+            "在小程序中调用api key"
+        ],
+        "tags": [
+            "api key",
+            "调用",
+            "微信小程序"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1MMQAYdEng",
+        "download_url": "https://pan.baidu.com/s/1Ccka6Nwc0fjMuU5Fbv9F9Q?pwd=9g7t",
+        "price": "29.00",
+        "original_price": "59.00",
+        "created_at": "2025-07-23T07:14:02.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "09:48",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI造型师",
+        "collection_id": 3
+    },
+    {
+        "id": 24,
+        "cover": "https://zhu-ai.top/uploads/cover-1753255001048-89991301.png",
+        "title": "[课程4] 小程序开发微信云数据库",
+        "description": "本视频是<AI造型师>小程序的系列课程的第4课。AI造型师是基于AI工作流的一个小程序，它可以分析用户上传照片中的着装，根据时尚专业人士的经验提出改善建议，并为用户生成改进图片以提供视觉参考，让用户能根据生成结果持续提升自己的穿搭品味。本节课将介绍如何在小程序中开发云数据库来实现用户造型点数的管理",
+        "core_content": [
+            "认识微信小程序的云环境",
+            "云数据库管理用户数据"
+        ],
+        "tags": [
+            "数据库",
+            "云环境",
+            "微信小程序"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1rNQBYyEMu",
+        "download_url": "https://pan.baidu.com/s/1xLXwETLe5qxX3deFlkFwkA?pwd=6mi4",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T07:16:41.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "09:02",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI造型师",
+        "collection_id": 3
+    },
+    {
+        "id": 25,
+        "cover": "https://zhu-ai.top/uploads/cover-1753255132064-809966958.png",
+        "title": "[课程5] 微信小程序集成lottie动画 | 改善用户体验",
+        "description": "本视频分享了如何在微信小程序中集成lottie动画的过程",
+        "core_content": [
+            "免费获取lottie动画",
+            "在小程序中集成lottie动画"
+        ],
+        "tags": [
+            "lottie动画",
+            "微信小程序"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1YoQoYQE8N",
+        "download_url": "https://pan.baidu.com/s/1ihmv88Zo40Bj8YlhFpMY5g?pwd=2y8v",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T07:18:52.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "06:54",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI造型师",
+        "collection_id": 3
+    },
+    {
+        "id": 26,
+        "cover": "https://zhu-ai.top/uploads/cover-1753255708061-17446501.jpg",
+        "title": "[颠覆认知] 外行人用AI完成商业app的心得分享",
+        "description": "本视频是***你穿我搭-AI造型师***小程序开发完成的心得总结。我从设计师的角度，分享了在完全不懂编程的情况下开发商业小程序的心得和思路，并重点梳理了跟小程序有关的各个功能点以及对应的开发资源。通过这个视频，你不仅能学习更加专业和高效的AI开发模式，还能收集到跟小程序开发有关的主要功能点的实用开发资源",
+        "core_content": [
+            "商业小程序的开发思路",
+            "常见的功能模块",
+            "对应的开发资源"
+        ],
+        "tags": [
+            "开发思路",
+            "商业小程序"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1z6JBzMEwo",
+        "download_url": "",
+        "price": "0.00",
+        "original_price": "19.00",
+        "created_at": "2025-07-23T07:28:28.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "beginner",
+        "duration": "10:12",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI造型师",
+        "collection_id": 3
+    },
+    {
+        "id": 27,
+        "cover": "https://zhu-ai.top/uploads/cover-1753256622799-232084982.png",
+        "title": "[课程1]:Figma MCP开发前端页面",
+        "description": "Cursor0.48版本升级了对于MCP的支持。领用Figma MCP快速搭建微信小程序的前端页面，效果令人惊艳！我一口气搭建了7个主要页面，超高的设计还原度，让我的前端开发模式从此改变！",
+        "core_content": [
+            "Figma MCP的创建和使用",
+            "结构化描述辅助"
+        ],
+        "tags": [
+            "figma mcp",
+            "前端开发"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV18moVYqEsh/",
+        "download_url": "https://pan.baidu.com/s/18ftKV7qsQCtoyUuIOA7Qog?pwd=y7de",
+        "price": "19.00",
+        "original_price": "59.00",
+        "created_at": "2025-07-23T07:43:42.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "03:54",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": "微信社交小程序",
+        "collection_id": 10
+    },
+    {
+        "id": 28,
+        "cover": "https://zhu-ai.top/uploads/cover-1753256797612-803495997.png",
+        "title": "[课程2]SDK一键集成lottie动画|cursor",
+        "description": "用SDK的方式在小程序中一键集成lottie动画，让你的应用瞬间生动起来！",
+        "core_content": [
+            "lottie动画的获取",
+            "SDK一句话集成lottie动画"
+        ],
+        "tags": [
+            "lottie",
+            "sdk",
+            "微信小程序"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV16r5rziEVR",
+        "download_url": "https://pan.baidu.com/s/1QaoLbxdwjftZ92-1M0Je1g?pwd=kkyr",
+        "price": "29.00",
+        "original_price": "59.00",
+        "created_at": "2025-07-23T07:46:37.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "04:31",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "微信社交小程序",
+        "collection_id": 10
+    },
+    {
+        "id": 29,
+        "cover": "https://zhu-ai.top/uploads/cover-1753256976333-130416851.png",
+        "title": "[课程3] 用户信息管理和扩展|Cursor",
+        "description": "本视频是<零基础开发社交小程序>的第三课，分享了如何通过SDK, 仅用一轮对话来获取用户头像和昵称，并完成用户信息的注册和管理。",
+        "core_content": [
+            "SDK获取用户头像和昵称",
+            "用户注册和登录",
+            "用户信息管理"
+        ],
+        "tags": [
+            "SDK",
+            "用户管理"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1Ra5QzpENG",
+        "download_url": "https://pan.baidu.com/s/1Cuj1RVvzuLO-0FLxcJyd4g?pwd=hwvh",
+        "price": "29.00",
+        "original_price": "59.00",
+        "created_at": "2025-07-23T07:49:36.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "09:30",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "微信社交小程序",
+        "collection_id": 10
+    },
+    {
+        "id": 37,
+        "cover": "https://zhu-ai.top/uploads/cover-1753259856916-432516943.png",
+        "title": "1比1还原设计图,你要浪费多少个AI快速回复？",
+        "description": "本视频详细介绍了精准还原设计图的前端开发三步曲, 根据这三个步骤，即使是没有任何开发基础的人，也可以在极少消耗AI快速回复的情况下，高质量的还原设计图。",
+        "core_content": [
+            "AI打基础",
+            "手动精修复",
+            "AI再帮助"
+        ],
+        "tags": [
+            "前端开发",
+            "结构化描述",
+            "figma mcp"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1Cy7azWEMD",
+        "download_url": "https://pan.baidu.com/s/1Al9BiWUl2OEuCN1R7XXuYQ?pwd=uteg",
+        "price": "29.00",
+        "original_price": "79.00",
+        "created_at": "2025-07-23T08:37:36.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "15:54",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI开发前端",
+        "collection_id": 1
+    },
+    {
+        "id": 38,
+        "cover": "https://zhu-ai.top/uploads/cover-1753260140910-299198806.jpg",
+        "title": "[高级UI提示词] AI直接完成前端设计+开发 | 微信小程序",
+        "description": "这是一套高级UI提示词框架，它可以通过收集下面3个问题，给出全面的app规划，并直接完成每一个页面的设计和开发。\r\n你只需要回答AI三个问题:",
+        "core_content": [
+            "简述你的应用是什么,它解决了什么问题?",
+            "你的目标用户是谁？他们有什么特点和需求？",
+            "你的应用包含哪些核心功能模块？"
+        ],
+        "tags": [
+            "前端开发",
+            "高级提示词"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1PcTezKE28",
+        "download_url": "https://pan.baidu.com/s/1EYxgHSblOYcmEU8BH3bOyw?pwd=u94f",
+        "price": "49.00",
+        "original_price": "99.00",
+        "created_at": "2025-07-23T08:42:20.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "03:00",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI开发前端",
+        "collection_id": 1
+    },
+    {
+        "id": 39,
+        "cover": "https://zhu-ai.top/uploads/cover-1753260331744-981686932.png",
+        "title": "[高级UI提示词] 45分钟搞定网站设计和开发|比mcp更好用！",
+        "description": "这是一套高级UI提示词框架，它可以通过收集下面3个问题，给出全面的网站规划，并直接完成每一个页面的设计和开发。\r\n你只需要回答AI三个问题:",
+        "core_content": [
+            "简述你的网站是什么,它解决了什么问题?",
+            "你的目标用户是谁？他们有什么特点和需求？",
+            "你的网站是面向移动端还是桌面端，包含哪些核心功能模块？"
+        ],
+        "tags": [
+            "前端开发",
+            "网站前端",
+            "高级提示词"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1MHMwzxEUc",
+        "download_url": "https://pan.baidu.com/s/1MhegRRY3C7h_gYJTQfLjlg?pwd=b6p4",
+        "price": "49.00",
+        "original_price": "99.00",
+        "created_at": "2025-07-23T08:45:31.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "03:09",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI开发前端",
+        "collection_id": 1
+    },
+    {
+        "id": 40,
+        "cover": "https://zhu-ai.top/uploads/cover-1753260719201-981076157.png",
+        "title": "AI帮我 [设计+开发+维护] 高质量个人网站",
+        "description": "这是上一个视频的后续，分享了如何让AI帮助我们分离网站代码，将内容与逻辑分离，从而通过配置文件轻松管理网站内容，这是一个对不懂编程的人比较有帮助的思路，大家有兴趣的话可以看一下。",
+        "core_content": [
+            "静态内容与代码逻辑的关系",
+            "用配置文件管理静态内容"
+        ],
+        "tags": [
+            "配置文件",
+            "前端维护"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1B2MizKEwo",
+        "download_url": "https://pan.baidu.com/s/1EOt_KcLDNca0mUoj9BmByA?pwd=jypm",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T08:51:59.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "04:38",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI开发前端",
+        "collection_id": 1
+    },
+    {
+        "id": 41,
+        "cover": "https://zhu-ai.top/uploads/cover-1753276560190-461189325.png",
+        "title": "前端程序员还有出路吗？30分钟用cursor开发的前端页面",
+        "description": "不懂前端开发的人，只用AI可以开发出专业级的精美网站吗？本视频将向你分享如何用30分钟，不写一条代码，开发出专业级的网站前端。同时还包括了如何将Magic UI上的特效应用到网页元素中。Magic UI: https://magicui.design/docs/components/marquee",
+        "core_content": [
+            "一键创建next.js项目",
+            "截图+结构化提示词开发页面",
+            "调用MagicUI的视觉特效"
+        ],
+        "tags": [
+            "网站",
+            "MagicUI",
+            "前端开发"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1eYxsemEMT",
+        "download_url": "https://pan.baidu.com/s/1kZS2VuxGnBWpTMqZGpcWNA?pwd=j2ts",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T13:16:00.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "04:34",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI开发前端",
+        "collection_id": 1
+    },
+    {
+        "id": 42,
+        "cover": "https://zhu-ai.top/uploads/cover-1753276801419-497382515.png",
+        "title": "我用Cursor, 45分钟复刻了苹果官网!",
+        "description": "我在cursor中花了45分钟时间复刻了苹果官网的首页。在视频中，我分享了最核心的开发过程，包括在claude中制定详细的分步需求和在Cursor中利用AI开发页面的关键步骤。更多详情请加入我的知识星球，在这里你会得到从头到尾的完整开发视频。",
+        "core_content": [
+            "如何利用claude指定开发计划",
+            "结构化语言描述UI需求"
+        ],
+        "tags": [
+            "claude",
+            "前端开发",
+            "网站"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1632rYzE8V",
+        "download_url": "https://pan.baidu.com/s/1p8kN3NsqdLyO-mPY7p7olg?pwd=z78m",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T13:20:01.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "04:40",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI开发前端",
+        "collection_id": 1
+    },
+    {
+        "id": 43,
+        "cover": "https://zhu-ai.top/uploads/cover-1753277260688-327811522.png",
+        "title": "[第1课] 魔法提示词 | 快速搭建高质量前端页面",
+        "description": "本视频是[零基础开发微信商城]的系列视频，完全站在不懂编程的人的角度，详细介绍用AI开发微信小程序的完整过程。本视频中，分享了AI快速搭建前端页面的最新探索心得: 利用豆包AI生成准确的前端页面的结构化需求描述，只用一轮对话就开发出高质量的前端商城页面",
+        "core_content": [
+            "创建微信小程序",
+            "利用豆包AI美化草图并生成结构化描述"
+        ],
+        "tags": [
+            "豆包",
+            "前端",
+            "微信小程序"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1Gvw9eiE66",
+        "download_url": "https://pan.baidu.com/s/1kbpbGuCguZSVViC4TyGJzQ?pwd=db88",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T13:27:40.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "06:37",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "微信商城",
+        "collection_id": 7
+    },
+    {
+        "id": 44,
+        "cover": "https://zhu-ai.top/uploads/cover-1753277611813-734432645.png",
+        "title": "[第2,3课] 云数据库实现商城后台功能 | Trae替代Cursor",
+        "description": "本视频重点介绍关键的开发思路，如果想了解完整的实际操作过程，可通过片尾讲解获取。\r\n本视频是[零基础开发微信商城]的系列视频，完全站在不懂编程的人的角度，详细介绍用AI开发微信小程序的完整过程。本视频中，分享了利用新的IDE，Trae代替Cursor开发剩余页面的前端和交互，并轻松实现了云数据库的开发，完成商品的后台管理",
+        "core_content": [
+            "了解Trae",
+            "前端开发",
+            "云数据库实现商品管理"
+        ],
+        "tags": [
+            "Trae",
+            "前端",
+            "数据库"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1FGPTeXE5g",
+        "download_url": "https://pan.baidu.com/s/1DcTE-JrQX9dRgDt76DVp5A?pwd=txka",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-23T13:33:31.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "08:43",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "微信商城",
+        "collection_id": 7
+    },
+    {
+        "id": 45,
+        "cover": "https://zhu-ai.top/uploads/cover-1753278056226-810439721.png",
+        "title": "[课程1]用AI生成设计图(Creatie.ai)",
+        "description": "零基础开发微信小程序: 智能翻译器。将扣子(Coze) AI智能体通过api调用的方式加入到微信小程序中。这个视频讲分享如何用Creatie.ai，通过对话的方式生成设计图。",
+        "core_content": [
+            "了解Creatie.ai",
+            "结构化描述需求生成设计图"
+        ],
+        "tags": [
+            "Creatie",
+            "前端设计"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1Pxf8YyEF4",
+        "download_url": "",
+        "price": "0.00",
+        "original_price": "29.00",
+        "created_at": "2025-07-23T13:40:56.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "beginner",
+        "duration": "21:11",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "微信小程序+AI智能体",
+        "collection_id": 8
+    },
+    {
+        "id": 46,
+        "cover": "https://zhu-ai.top/uploads/cover-1753278187600-477108841.png",
+        "title": "[课程2] 创建AI智能体这么简单有趣！",
+        "description": "零基础开发微信小程序: 智能翻译器。将扣子(Coze) AI智能体通过api调用的方式加入到微信小程序中。这节课将重点分享如何在扣子平台创建一个智能翻译器的智能体。",
+        "core_content": [
+            "创建扣子智能体",
+            "在智能体中调用插件"
+        ],
+        "tags": [
+            "扣子",
+            "智能体"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1tFFNeEExR",
+        "download_url": "",
+        "price": "0.00",
+        "original_price": "29.00",
+        "created_at": "2025-07-23T13:43:07.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "beginner",
+        "duration": "15:13",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "微信小程序+AI智能体",
+        "collection_id": 8
+    },
+    {
+        "id": 47,
+        "cover": "https://zhu-ai.top/uploads/cover-1753278459562-283235311.png",
+        "title": "[课程3]微信小程序调用AI智能体(API调用)",
+        "description": "零基础开发微信小程序: 智能翻译器。将扣子(Coze) AI智能体通过api调用的方式加入到微信小程序中。本视频将分享如何通过api key的方式在微信小程序中调用扣子智能体",
+        "core_content": [
+            "创建微信小程序项目",
+            "小程序后台添加服务器域名",
+            "利用参考文档实现智能体的api调用"
+        ],
+        "tags": [
+            "微信小程序",
+            "服务器域名",
+            "api key"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1iNPke5Eik",
+        "download_url": "https://pan.baidu.com/s/1kTlyNamKSi33OIQ8S11i6w?pwd=u8ab",
+        "price": "29.00",
+        "original_price": "59.00",
+        "created_at": "2025-07-23T13:47:39.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "09:40",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "微信小程序+AI智能体",
+        "collection_id": 8
+    },
+    {
+        "id": 48,
+        "cover": "https://zhu-ai.top/uploads/cover-1753278778871-326566384.png",
+        "title": "[课程4]微信小程序无法进行真机调试怎么办？",
+        "description": "开发好的微信小程序在模拟器中运行正常，但是在真机是就报错，怎么办？",
+        "core_content": [
+            "如何真机调试"
+        ],
+        "tags": [
+            "真机调试"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1YGKpeRExC",
+        "download_url": "",
+        "price": "0.00",
+        "original_price": "19.00",
+        "created_at": "2025-07-23T13:52:58.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "11:42",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "微信小程序+AI智能体",
+        "collection_id": 8
+    },
+    {
+        "id": 52,
+        "cover": "https://zhu-ai.top/uploads/cover-1753321231731-711556050.png",
+        "title": "[设计不存在了] 1轮对话生成商业APP设计原型",
+        "description": "Claude升级到3.7以后，编程能力进一步提升。现在，在cursor中，可以通过一句提示词快速生成专业的app设计原型，几乎不需要做任何修改就可以提交客户了！",
+        "core_content": [
+            "结构化描述原型需求",
+            "完整的提示词参考"
+        ],
+        "tags": [
+            "设计原型",
+            "前端"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1Wh9dYBExP",
+        "download_url": "https://pan.baidu.com/s/1oifUdBNDRz4CcuSCYJMKow?pwd=8tp9",
+        "price": "49.00",
+        "original_price": "79.00",
+        "created_at": "2025-07-24T01:40:31.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "05:38",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI开发前端",
+        "collection_id": 1
+    },
+    {
+        "id": 60,
+        "cover": "https://zhu-ai.top/uploads/cover-1754467885715-548098805.png",
+        "title": "[零基础01]高级提示词一句话生成网站",
+        "description": "尝试了N多种AI开发网站的方式，这是最简单且最能落地的开发方式，全程你只需要扮演客户提需求，就能轻松实现基于你的业务的网站！",
+        "core_content": [
+            "用高级UI提示词启动开发流程",
+            "根据AI反馈确认网站结构",
+            "基于页面效果提出更新建议",
+            "将导航独立成共享组件",
+            "完成所有页面的UI和交互"
+        ],
+        "tags": [
+            "Cursor",
+            "auto",
+            "前端",
+            "商业网站"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1wKtuzEE1s",
+        "download_url": "https://pan.baidu.com/s/1WKTH9QnCzKQ-VvnxJXTj6A?pwd=wtsq",
+        "price": "49.00",
+        "original_price": "99.00",
+        "created_at": "2025-08-04T13:07:50.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "08:14",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": "商业网站开发",
+        "collection_id": 6
+    },
+    {
+        "id": 61,
+        "cover": "https://zhu-ai.top/uploads/cover-1754468195129-943547999.png",
+        "title": "[零基础02]一句话一个功能,后台开发完全颠覆！",
+        "description": "尝试了N多种AI开发网站的方式，这是最简单且最能落地的开发方式，全程你只需要扮演客户提需求，就能轻松实现基于你的业务的网站！ ",
+        "core_content": [
+            "安装数据库环境mysql",
+            "安装后台(javascript)运行环境node.js",
+            "商品上传功能",
+            "商品展示",
+            "商品更新"
+        ],
+        "tags": [
+            "后台",
+            "数据库",
+            "商品管理",
+            "商业网站"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV13D4fzqEkE/",
+        "download_url": "https://pan.baidu.com/s/1suVY-f5eaUFapRhIhE3LjA?pwd=mybz",
+        "price": "19.00",
+        "original_price": "69.00",
+        "created_at": "2025-08-06T08:16:35.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "08:47",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "商业网站开发",
+        "collection_id": 6
+    },
+    {
+        "id": 68,
+        "cover": "https://zhu-ai.top/uploads/cover-1756804952280-785380399.png",
+        "title": "🔥九三阅兵: 用AI致敬抗战胜利！",
+        "description": "不用设计，不用编程，通过向AI提供页面文本信息和图片，快速在已有网站上为九三阅兵创建庆祝页面",
+        "core_content": [
+            "1.收集页面文字内容和图片",
+            "2.让AI按要求归纳和优化内容",
+            "3.生成页面"
+        ],
+        "tags": [
+            "阅兵",
+            "前端"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1NcawzVET7/",
+        "download_url": "https://pan.baidu.com/s/1RARAUnHKchKxMCMkQRzdvA?pwd=ghm8",
+        "price": "0.00",
+        "original_price": "0.00",
+        "created_at": "2025-09-02T09:22:32.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "02:15",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI开发前端",
+        "collection_id": 1
+    },
+    {
+        "id": 69,
+        "cover": "https://zhu-ai.top/uploads/cover-1757232459521-903953804.png",
+        "title": "[零基础开发iOS01] 不设计,不编程,精准还原前端UI",
+        "description": "本视频详细介绍了零基础的\"外行人\"，如何利用\"结构化描述需求\"的方法，利用一张粗糙的UI草图，精准还原IOS应用的前端页面。",
+        "core_content": [
+            "iOS开发的必要准备",
+            "结构化方式描述设计草图",
+            "优化前端开发结果"
+        ],
+        "tags": [
+            "ios",
+            "前端",
+            "结构化描述",
+            "ios前端",
+            "imagex",
+            "二次开发"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1bxYLz4Env/",
+        "download_url": "https://pan.baidu.com/s/1VqJDmF5uAu-N3Adx4alPVQ?pwd=a6ew",
+        "price": "29.90",
+        "original_price": "69.00",
+        "created_at": "2025-09-07T08:07:39.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "09:58",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": "iOS-imageXPro",
+        "collection_id": 5
+    },
+    {
+        "id": 70,
+        "cover": "https://zhu-ai.top/uploads/cover-1757553051195-48973741.png",
+        "title": "[零基础开发iOS02]零基础开发iOS应用 | 增加视觉特效",
+        "description": "AI虽然可以一句话帮我们生成界面，但是总有一些细节不尽如人意，如果放任不管，你的应用就会很不专业，留不住用户。想要自己的应用能脱颖而出，就必须关注细节，精益求精，提升用户体验。这是外行人开发的应用能够被用户接受和喜爱的关键点。",
+        "core_content": [
+            "修复UI上的瑕疵",
+            "增加更酷的视觉效果"
+        ],
+        "tags": [
+            "ios",
+            "前端",
+            "视觉特效",
+            "视觉效果",
+            "imagex",
+            "二次开发"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1xtH8zwEVX/",
+        "download_url": "https://pan.baidu.com/s/1VNiW6nnuSPTopueMbMboGA?pwd=bg7b",
+        "price": "49.00",
+        "original_price": "99.00",
+        "created_at": "2025-09-11T01:10:51.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "05:28",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": "iOS-imageXPro",
+        "collection_id": 5
+    },
+    {
+        "id": 72,
+        "cover": "https://zhu-ai.top/uploads/cover-1757929309477-580057229.png",
+        "title": "[零基础开发iOS03]零基础开发iOS应用 | api调用豆包大模型",
+        "description": "我在视频中首先用\"到饭馆点餐\"的生活场景来解释了什么是api, apikey和SDK以及他们之间的关系。然后详细介绍了如果通过api调用豆包最新的图像生成模型(doubao-seedream-4.0)来实现文生图的功能。",
+        "core_content": [
+            "什么是api,apikey和sdk",
+            "如何调用豆包图像生成模型",
+            "如何优化图片显示体验"
+        ],
+        "tags": [
+            "imagex",
+            "ios",
+            "豆包",
+            "api调用",
+            "二次开发"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1fypBzjEZe",
+        "download_url": "https://pan.baidu.com/s/1yNwqnlSw8kP_M2110OvDYw?pwd=p84f",
+        "price": "29.00",
+        "original_price": "69.00",
+        "created_at": "2025-09-15T09:41:49.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "08:36",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": "iOS-imageXPro",
+        "collection_id": 5
+    },
+    {
+        "id": 73,
+        "cover": "https://zhu-ai.top/uploads/cover-1758178301507-462175226.png",
+        "title": "[不设计&不编程] 快速替换网站的视觉风格",
+        "description": "不需懂设计和编程，快速为你已有的网站替换视觉风格。",
+        "core_content": [
+            "从freepik获取视觉参考",
+            "用专业提示词获取参考图的视觉风格",
+            "在首页上替换并总结视觉风格",
+            "将总结的风格应用到其他页面"
+        ],
+        "tags": [
+            "商业网站",
+            "前端开发",
+            "视觉风格"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1NupqzHETr/",
+        "download_url": "https://pan.baidu.com/s/1EiEhXf_fZXihHsc1wCbTlg?pwd=znqf",
+        "price": "0.00",
+        "original_price": "59.00",
+        "created_at": "2025-09-18T06:51:41.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "beginner",
+        "duration": "09:58",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": "商业网站开发",
+        "collection_id": 6
+    },
+    {
+        "id": 74,
+        "cover": "https://zhu-ai.top/uploads/cover-1758844667578-386594807.png",
+        "title": "[零基础]解决扣子个人访问令牌有效期问题|云数据库",
+        "description": "本视频详细分享了如何解决扣子平台apikey(个人访问令牌)只有30天的方法。**注意**通过个人令牌调用扣子工作流/智能体只适用于快速测试，无适合商用，即使用本视频的方法可以绕开每隔30天更新访问令牌后要重新提交的麻烦，但是却无法真正解决个人令牌有效期的问题。所以，并不建议大家这样做。更建议的做法是通过oauth的方式进行永久授权，请搜索\"AI调用\"查找对应课程。",
+        "core_content": [
+            "个人访问令牌的有效期限制",
+            "解决思路",
+            "云数据库存储"
+        ],
+        "tags": [
+            "apikey",
+            "个人令牌",
+            "有效期",
+            "云数据库"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1hPosYiEu4",
+        "download_url": "https://pan.baidu.com/s/12WNMIc9CWW7efAcRbVPgcQ?pwd=yhjf",
+        "price": "29.00",
+        "original_price": "59.00",
+        "created_at": "2025-09-25T23:57:47.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "06:18",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "AI调用",
+        "collection_id": 2
+    },
+    {
+        "id": 75,
+        "cover": "https://zhu-ai.top/uploads/cover-1759133693513-71486494.jpg",
+        "title": "[零基础开发iOS04]如何将单一功能打造成有价值产品",
+        "description": "为了与用户建立更稳定的长久关系并实现价值闭环，我们将对原有的功能进行二次开发。本视频将分享如何增加用户注册和登录以及用户中心的页面. 可以帮助AI学习者开发出有价值的产品的二次开发的3条原则如下:",
+        "core_content": [
+            "补足价值闭环",
+            "建立用户关系",
+            "渐进式迭代"
+        ],
+        "tags": [
+            "用户管理",
+            "前端开发",
+            "二次开发"
+        ],
+        "video_link": "",
+        "download_url": "https://pan.baidu.com/s/1-4081l9AlDg6zpvAM74ruQ?pwd=vwfx",
+        "price": "29.00",
+        "original_price": "59.00",
+        "created_at": "2025-09-26T00:47:58.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "06:18",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": "iOS-imageXPro",
+        "collection_id": 5
+    },
+    {
+        "id": 76,
+        "cover": "https://zhu-ai.top/uploads/cover-1759545248911-724479942.png",
+        "title": "[零基础开发iOS05]优化图片管理: 从本地迁移到数据库",
+        "description": "继续二次开发。原本的图片管理是保存在手机的本地存储。但是处于商业化的考虑，我们也可以将它迁移到服务器的数据库中存储，这样用户可以在相同的账号下，在不同的设备上都可以获取自己曾经生成的图片，提供了更好的统一性体验。",
+        "core_content": [
+            "分析当前本地存储图片特点",
+            "开发数据库存储图片"
+        ],
+        "tags": [
+            "后端",
+            "数据库",
+            "iOS",
+            "二次开发"
+        ],
+        "video_link": "",
+        "download_url": "https://pan.baidu.com/s/1wOE_d_z6VLqBBl-nj8KKuA?pwd=t2qy",
+        "price": "29.00",
+        "original_price": "59.00",
+        "created_at": "2025-10-04T02:34:08.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "20:11",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "iOS-imageXPro",
+        "collection_id": 5
+    },
+    {
+        "id": 77,
+        "cover": "https://zhu-ai.top/uploads/cover-1759545711861-684291365.png",
+        "title": "[零基础开发iOS06]用户系统-注册与登录(后端开发)",
+        "description": "在第4课中，我们通过二次开发增加了用户系统的前端页面，这节课，我们通过开发数据库来实现真正的用户管理系统",
+        "core_content": [
+            "设计数据库用户表",
+            "连接数据库实现后端功能",
+            "测试"
+        ],
+        "tags": [
+            "后端",
+            "用户系统",
+            "iOS"
+        ],
+        "video_link": "",
+        "download_url": "https://pan.baidu.com/s/1Foc82vas0IT27T96jK8c9Q?pwd=avk1",
+        "price": "49.00",
+        "original_price": "99.00",
+        "created_at": "2025-10-04T02:41:51.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "24:38",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "iOS-imageXPro",
+        "collection_id": 5
+    },
+    {
+        "id": 78,
+        "cover": "https://zhu-ai.top/uploads/cover-1759546113490-579865039.png",
+        "title": "[零基础开发iOS07]增加支付和订阅页面(前端开发)",
+        "description": "为了实现盈利，打通支付通道，我们需要增加让用户可以支付/订阅的页面。",
+        "core_content": [
+            "开发前端页面",
+            "连接用户数据表显示用户剩余点数"
+        ],
+        "tags": [
+            "ios",
+            "前端开发",
+            "支付",
+            "内购",
+            "数据库"
+        ],
+        "video_link": "",
+        "download_url": "https://pan.baidu.com/s/1duS7yUuJgw6-KvcK4orVZA?pwd=qkhr",
+        "price": "29.00",
+        "original_price": "59.00",
+        "created_at": "2025-10-04T02:48:33.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "18:39",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "iOS-imageXPro",
+        "collection_id": 5
+    },
+    {
+        "id": 79,
+        "cover": "https://zhu-ai.top/uploads/cover-1759546431024-790228598.png",
+        "title": "[零基础开发iOS08]内购与订阅(后端开发)",
+        "description": "紧接着上节课的进度，我们将为已经开发好的支付订阅页面，开发实际的后端功能，真正实现ios内购和订阅的能力。",
+        "core_content": [
+            "Xcode中完成内购的必要系统配置",
+            "配置configration文件",
+            "开发客户端和服务器逻辑",
+            "测试与验证"
+        ],
+        "tags": [
+            "ios",
+            "内购",
+            "订阅",
+            "后端"
+        ],
+        "video_link": "",
+        "download_url": "https://pan.baidu.com/s/1zgBxYx6Q9GfiOmW5O3MhfQ?pwd=ghqs",
+        "price": "69.00",
+        "original_price": "129.00",
+        "created_at": "2025-10-04T02:53:51.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "advanced",
+        "duration": "43:12",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "iOS-imageXPro",
+        "collection_id": 5
+    },
+    {
+        "id": 80,
+        "cover": "https://zhu-ai.top/uploads/cover-1759546696483-963364322.png",
+        "title": "[零基础开发iOS09]服务器部署",
+        "description": "前面的课程，我们已经完成了ios应用的本地开发和测试，现在我们需要将本地的数据库和后端服务器文件等部署到我们真实的服务器上，以确保用户可以在任何地方通过应用访问到自己的数据。",
+        "core_content": [
+            "介绍服务器部署的目的和必要性",
+            "迁移数据库到服务器上",
+            "部署后端服务器文件",
+            "测试"
+        ],
+        "tags": [
+            "ios",
+            "服务器部署",
+            "部署数据库",
+            "部署后端服务器"
+        ],
+        "video_link": "",
+        "download_url": "https://pan.baidu.com/s/1lvJPeA_lJWUF169XnEb-aQ?pwd=qynq",
+        "price": "49.00",
+        "original_price": "99.00",
+        "created_at": "2025-10-04T02:58:16.000Z",
+        "updated_at": "2025-10-06T09:19:22.000Z",
+        "status": "active",
+        "difficulty": "advanced",
+        "duration": "25:12",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": "iOS-imageXPro",
+        "collection_id": 5
+    },
+    {
+        "id": 67,
+        "cover": "https://zhu-ai.top/uploads/cover-1758529021108-368046491.png",
+        "title": "这套提示词,让你同时扮演产品经理,设计师和前端开发",
+        "description": "你不需要懂编程，不需要懂设计，只要利用一套高级原型提示词，就能够让AI同时扮演产品经理，设计师和前端开发工程师，10分钟内完成一套完全基于客户需求的高保真原型设计，而且可以实现基本交互。如果你从未接触AI开发，也只需要通过下面几步就能立即实现:",
+        "core_content": [
+            "1.下载Qoder(AI编程工具)",
+            "2.按需求更新提示词",
+            "3.发送提示词给AI完成首轮原型设计",
+            "4.准备业务数据和图片让AI全面替换",
+            "5.基于业务的高保真原型设计完成"
+        ],
+        "tags": [
+            "高级提示词",
+            "设计原型"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV13D4fzqEkE/",
+        "download_url": "https://pan.baidu.com/s/1suVY-f5eaUFapRhIhE3LjA?pwd=mybz",
+        "price": "49.00",
+        "original_price": "99.00",
+        "created_at": "2025-09-01T08:48:58.000Z",
+        "updated_at": "2025-09-22T08:17:01.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "03:45",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 59,
+        "cover": "https://zhu-ai.top/uploads/cover-1753704382062-142499685.png",
+        "title": "Claude在中国不能用？我用Auto完成所有的前后端开发！",
+        "description": "Claude停止对中国大陆提供服务了，这就意味着我们在cursor中无法直接使用claude 4等高级模型了。这对于日常高度依赖Claude模型进行开发的人来说是一个坏消息。没有claude 4我们就无法顺利完成开发了吗？本视频将分享我用无限次使用的auto模型选择方式开发本频道官方网站的过程。Auto在这个过程中，不仅开发了高质量的网页，而且顺利开发了微信Native支付和课程管理等复杂后台功能，证明了在没有claude模型的时候，我们利用官方的auto模式，也能顺利完成日常开发。",
+        "core_content": [
+            "Auto开发新页面",
+            "开发视频的微信Native支付",
+            "开发视频后台管理",
+            "仅提供文案升级页面",
+            "开发数据分析功能"
+        ],
+        "tags": [
+            "Auto",
+            "前端开发",
+            "Native支付",
+            "后端"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1Ra8jz8E2D/",
+        "download_url": "https://pan.baidu.com/s/10cEMQeKlFjFpMUh9yWZb2w?pwd=mmv4",
+        "price": "29.00",
+        "original_price": "79.00",
+        "created_at": "2025-07-28T12:06:22.000Z",
+        "updated_at": "2025-09-16T03:41:49.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "06:28",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 71,
+        "cover": "https://zhu-ai.top/uploads/cover-1757927451684-182945045.jpg",
+        "title": "像程序员一样思考",
+        "description": "如果你完全不懂编程，也不用担心读不懂这本书 —— 它的核心不是教你写代码，而是教你一套 **“遇到问题时，该如何想、如何做” 的实用思维方法 **。\r\n\r\n简单来说，程序员每天的工作不是机械敲代码，而是面对各种 “麻烦”：比如 “用户说登录不上”“软件突然卡住了”“要做一个新功能但毫无头绪”…… 他们有一套成熟的思路把 “大难题” 拆成 “小步骤”，一步步解决。这本书就把这套思路 “翻译” 成了所有人都能懂的方法，不管你是学生、职场人，还是想解决生活里的琐事（比如 “怎么高效准备一场考试”“怎么规划一次复杂的旅行”），都能用得上。",
+        "core_content": [
+            "不聊代码，只讲 “解决问题的逻辑”",
+            "把 “瞎琢磨” 变成 “有步骤的思考”",
+            "教你 “主动预防问题”，而不只是 “事后补救”",
+            "用 “普通人的例子” 讲透抽象思维"
+        ],
+        "tags": [
+            "电子书",
+            "资源下载"
+        ],
+        "video_link": "",
+        "download_url": "https://pan.baidu.com/s/1I4Et9TZJHIzh101wx_EMRw?pwd=tyt9",
+        "price": "0.00",
+        "original_price": "48.00",
+        "created_at": "2025-09-15T09:10:51.000Z",
+        "updated_at": "2025-09-15T09:10:51.000Z",
+        "status": "active",
+        "difficulty": "beginner",
+        "duration": "",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 55,
+        "cover": "https://zhu-ai.top/uploads/cover-1753322608070-548494017.png",
+        "title": "[我是设计师]我的AI开发探索之路",
+        "description": "最近发布的视频引发了大量讨论，有人质疑不懂编程怎么能独立开发App。在本期视频中，我将全面回应这些质疑，揭示我是如何通过Cursor和AI开发工具完成懒人记单词App的。从完全不懂代码的小白，到实现复杂功能的独立开发者，这是一条普通人也能复制的探索之路！",
+        "core_content": [
+            "什么是全民开发时代？",
+            "AI工具如何帮助外行人弯道超车？",
+            "我在开发过程中踩过的坑，以及总结出的经验。"
+        ],
+        "tags": [
+            "全民开发",
+            "懒人记单词"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1ekksYzEsD",
+        "download_url": "",
+        "price": "0.00",
+        "original_price": "29.00",
+        "created_at": "2025-07-24T02:03:28.000Z",
+        "updated_at": "2025-09-06T08:51:41.000Z",
+        "status": "active",
+        "difficulty": "beginner",
+        "duration": "19:17",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 62,
+        "cover": "https://zhu-ai.top/uploads/cover-1755235423878-462407880.png",
+        "title": "6个普通人学习AI开发的意义和应用场景",
+        "description": "在这个视频里面，我从和数百名学习AI的普通人的交流中，总结了不懂编程的外行人，学习AI的现实意义和实用的应用场景，并分享了我通过AI开发实实在在省钱和赚钱的经历！",
+        "core_content": [
+            "01-省钱",
+            "02-定制应用",
+            "03-省时间",
+            "04-开发爆款",
+            "05-接商单",
+            "06-提升竞争力"
+        ],
+        "tags": [
+            "AI开发",
+            "意义",
+            "应用场景"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1nYbzzNEFV",
+        "download_url": "",
+        "price": "0.00",
+        "original_price": "19.00",
+        "created_at": "2025-08-15T05:23:43.000Z",
+        "updated_at": "2025-08-15T05:24:34.000Z",
+        "status": "active",
+        "difficulty": "beginner",
+        "duration": "11:46",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 58,
+        "cover": "https://zhu-ai.top/uploads/cover-1753523601089-148688237.png",
+        "title": "Curosr魔法:从文字到声音,无代码开发Mac应用的终极指南",
+        "description": "想开发Mac应用但不会写代码?本视频手把手教你用Cursor, 45分钟从0到1开发Mac上的文字转语言应用!同时还有如何利用elevenlabs api来生成语音的详细教学。无需编程经验,只需跟着视频操作,轻松掌握AI辅助开发技巧。内含Cursor使用技巧、eleven labs API调用、UI设计等全流程讲解,助你快速入门AI开发。点赞订阅,下期更多AI开发黑科技!",
+        "core_content": [
+            "Xcode的使用",
+            "Cursor的基本应用",
+            "elevenLabs的api调用"
+        ],
+        "tags": [
+            "elevenLabs",
+            "mac",
+            "Xcode",
+            "Cursor"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1ZDt6eMEcQ",
+        "download_url": "https://pan.baidu.com/s/1UzKLI939km7iivlJDYHQhw?pwd=7xn5",
+        "price": "19.00",
+        "original_price": "59.00",
+        "created_at": "2025-07-26T09:53:21.000Z",
+        "updated_at": "2025-08-02T07:12:13.000Z",
+        "status": "active",
+        "difficulty": "beginner",
+        "duration": "36:15",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 50,
+        "cover": "https://zhu-ai.top/uploads/cover-1753315478947-257073322.png",
+        "title": "社交app的必备技能:获取用户头像和昵称",
+        "description": "微信已经收回了通过传统方式获取用户头像和昵称的接口，所以用getUserInfo或者getUserProfile都无法再获取用户信息了。本视频介绍了如何在没有编程基础的情况下，利用微信的用户信息填写功能获取用户的头像和昵称。",
+        "core_content": [
+            "了解合规的获取用户信息的交互",
+            "通过参考文档获取用户头像和昵称",
+            "自动注册和登录"
+        ],
+        "tags": [
+            "微信头像",
+            "昵称",
+            "SDK"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1iFfTYAEaU",
+        "download_url": "https://pan.baidu.com/s/1EVbMyFxAvHKbNK08o5nAPg?pwd=khwu",
+        "price": "29.00",
+        "original_price": "69.00",
+        "created_at": "2025-07-24T00:04:38.000Z",
+        "updated_at": "2025-08-02T02:29:27.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "07:21",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 57,
+        "cover": "https://zhu-ai.top/uploads/cover-1753354182464-988428950.png",
+        "title": "扣子chatSDK|零基础在网站中集成AI客服",
+        "description": "本视频分享了如何利用扣子平台的chatSDK，将发布的智能体以悬浮窗口的方式集成到你指定的网页中。视频总共分成三部分，对应了搭建AI客服的三个步骤.",
+        "core_content": [
+            "创建基于业务的内容回答智能体",
+            "获取OAuth的鉴权信息",
+            "调用chatSDK实现智能体的集成"
+        ],
+        "tags": [
+            "AI客服",
+            "智能体",
+            "chatSDK"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1NQNjznEiX",
+        "download_url": "https://pan.baidu.com/s/1I7opeExIMDymXFXcYB2DCA?pwd=cpe4",
+        "price": "49.00",
+        "original_price": "99.00",
+        "created_at": "2025-07-24T10:49:42.000Z",
+        "updated_at": "2025-07-28T06:13:13.000Z",
+        "status": "active",
+        "difficulty": "advanced",
+        "duration": "08:25",
+        "likes": 0,
+        "is_featured": 1,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 56,
+        "cover": "https://zhu-ai.top/uploads/cover-1753352203812-561610795.png",
+        "title": "来一发东风导弹吧! Cursor开发微信小游戏",
+        "description": "在2024年9月25日上午8时44分，咱中国人民解放军火箭军向太平洋相关公海海域成功发射了1枚携载训练模拟弹头的东风洲际弹道导弹，弹头精准落入预定海域。咱们国家有这样先进的军事力量，作为一个中国人，我内心满是激动、振奋和自豪。为了致敬火箭军的这一伟大行动，我开发了一个应景的微信小游戏，名字就叫“东风快递”。",
+        "core_content": [
+            "微信小游戏项目创建",
+            "游戏思路分析",
+            "游戏开发过程"
+        ],
+        "tags": [
+            "微信小游戏"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1qf1yY3EAM",
+        "download_url": "https://pan.baidu.com/s/14RFMQCmmXcEEKO-jOpogOQ?pwd=4vkc",
+        "price": "19.00",
+        "original_price": "59.00",
+        "created_at": "2025-07-24T10:16:43.000Z",
+        "updated_at": "2025-07-27T05:55:43.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "06:35",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 53,
+        "cover": "https://zhu-ai.top/uploads/cover-1753321571074-46077572.png",
+        "title": "[不懂编程] 从iOS转换到安卓原来这么简单",
+        "description": "不懂编程，开发AI多平台应用具有先天的优势！因为我们不懂代码，所以我们与AI之间没有任何代码层面的交流，这就决定了我们的方案是可以无视平台差异，可以很方便的进行跨平台开发.\r\n在本视频中，你将看到，在Cursor中，用相同的需求描述，如何快速的将iOS应用转换成安卓的版本。因为所有的需求都是用结构化的思维描述，所以转换过程非常平滑，没有发生任何错误。这也是用结构化思维与AI进行有效沟通的展示。",
+        "core_content": [
+            "AndroidStudio的安装",
+            "熟悉开发界面",
+            "在AndroidStudio中开发和运行"
+        ],
+        "tags": [
+            "安卓",
+            "androidstudio"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1uLrnYUEAE",
+        "download_url": "https://pan.baidu.com/s/1b6nE3e5SsU0r9m3LCdB2Tw?pwd=gn9j",
+        "price": "19.00",
+        "original_price": "49.00",
+        "created_at": "2025-07-24T01:46:11.000Z",
+        "updated_at": "2025-07-25T00:41:24.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "10:16",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": null
+    },
+    {
+        "id": 51,
+        "cover": "https://zhu-ai.top/uploads/cover-1753320869115-50650059.png",
+        "title": "[零基础] 为AI应用一键集成更好的加载体验",
+        "description": "AI处理数据的过程通常都比较耗时，如果总是显示一个转圈的菊花动画来提示用户等待过程，时间一长就会让用户感到焦虑甚至没有耐心等下去。本视频分享了如何通过SDK的方式一件集成fashioloading组件，为AI调用时的加载过程提供更好的用户体验。",
+        "core_content": [
+            "理解AI处理数据的延时",
+            "不同时长的等待需要提供不同的体验",
+            "SDK一键集成高级加载体验"
+        ],
+        "tags": [
+            "延时",
+            "加载"
+        ],
+        "video_link": "https://www.bilibili.com/video/BV1jojqzoEMj",
+        "download_url": "https://pan.baidu.com/s/1CwA7ZPcKaKVmbwQBCVR4XQ?pwd=3p7v",
+        "price": "29.00",
+        "original_price": "59.00",
+        "created_at": "2025-07-24T01:34:29.000Z",
+        "updated_at": "2025-07-24T01:34:29.000Z",
+        "status": "active",
+        "difficulty": "intermediate",
+        "duration": "02:43",
+        "likes": 0,
+        "is_featured": 0,
+        "collection_name": null,
+        "collection_id": null
+    }
+]
